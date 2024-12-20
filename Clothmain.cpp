@@ -1,4 +1,4 @@
-// main.cpp
+// Clothmain.cpp
 // Compile with: g++ main.cpp -o ClothSimulation -lGLEW -lglfw -lGL -lGLU
 // Ensure that GLEW, GLFW, and GLM are properly installed and their include paths are correct.
 
